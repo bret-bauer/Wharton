@@ -1,0 +1,1 @@
+This is a cron job that runs 3 nights a week and sends notification emails to davidbrooks@usecapital.com
